@@ -364,3 +364,5 @@ I followed the tutorial online
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
 * Ray
+* Johnson
+* Dave
